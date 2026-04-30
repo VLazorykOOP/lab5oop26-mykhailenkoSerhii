@@ -1,0 +1,12 @@
+//
+// Created by Smart on 30/04/2026.
+//
+
+#ifndef LAB5OOP26_MYKHAILENKOSERHII_TASK2_H
+#define LAB5OOP26_MYKHAILENKOSERHII_TASK2_H
+
+
+class task2 {};
+
+
+#endif //LAB5OOP26_MYKHAILENKOSERHII_TASK2_H
