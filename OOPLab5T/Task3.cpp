@@ -69,7 +69,6 @@ class Window
 
 class TitledWindow : public Window
 {
-private:
     std::string title;
 
 public:
@@ -122,3 +121,19 @@ public:
         return os;
     }
 };
+
+void task3()
+{
+    Window w1 = Window(1080, 960);
+    std::cout << w1 << std::endl;
+
+    TitledWindow w2 = TitledWindow(1080, 960, "OOP");
+    std::cout << w2 << std::endl;
+
+    Window w3 = Window(16, 9);
+    std::cout << w3 << std::endl;
+
+    std::cout << "w1 = w3" << std::endl;
+    w1 = w3;
+    std::cout << (w1) << std::endl;
+}

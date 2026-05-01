@@ -7,6 +7,6 @@
 
 
 class Task3 {};
-
+void task3();
 
 #endif //LAB5OOP26_MYKHAILENKOSERHII_TASK3_H

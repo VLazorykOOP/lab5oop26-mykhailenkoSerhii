@@ -6,7 +6,8 @@
 #define LAB5OOP26_MYKHAILENKOSERHII_TASK2_H
 
 
-class task2 {};
+class Task2 {};
+void task2();
 
 
 #endif //LAB5OOP26_MYKHAILENKOSERHII_TASK2_H

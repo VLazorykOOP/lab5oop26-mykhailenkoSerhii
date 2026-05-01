@@ -8,7 +8,7 @@
 
 class Task1 {};
 
-void test();
+void task1();
 
 
 #endif //LAB5OOP26_MYKHAILENKOSERHII_TASK1_H

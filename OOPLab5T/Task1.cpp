@@ -66,7 +66,7 @@ class Fraction : public Pair
     }
 };
 
-void test()
+void task1()
 {
     Fraction f1 = Fraction(1, 0);
     Fraction f2 = Fraction(1, 5);
@@ -85,5 +85,4 @@ void test()
     std::cout << "f2 < f1: " << (f2 < f1) << std::endl;
     std::cout << "f1 <= f2: " << (f1 <= f2) << std::endl;
     std::cout << "f2 <= f1: " << (f2 <= f1) << std::endl;
-
 }
